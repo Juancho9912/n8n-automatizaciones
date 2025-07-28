@@ -6,10 +6,13 @@
   "scripts": {
     "start": "node start.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["n8n", "railway", "automation", "workflow"],
+  "author": "Juan David Valencia",
+  "license": "MIT",
   "dependencies": {
     "n8n": "^1.104.1"
-  }
+  },
+  "engines": {
+  "node": "20.x"
+}
 }
