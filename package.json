@@ -4,7 +4,7 @@
   "description": "",
   "main": "start.js",
   "scripts": {
-    "start": "node start.js"
+    "start": "n8n start"
   },
   "keywords": ["n8n", "railway", "automation", "workflow"],
   "author": "Juan David Valencia",
