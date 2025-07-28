@@ -1,0 +1,15 @@
+{
+  "name": "n8n-railway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "n8n": "^1.104.1"
+  }
+}
