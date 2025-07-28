@@ -6,13 +6,18 @@
   "scripts": {
     "start": "n8n start"
   },
-  "keywords": ["n8n", "railway", "automation", "workflow"],
+  "keywords": [
+    "n8n",
+    "railway",
+    "automation",
+    "workflow"
+  ],
   "author": "Juan David Valencia",
   "license": "MIT",
   "dependencies": {
     "n8n": "^1.104.1"
   },
   "engines": {
-  "node": "20.x"
-}
+    "node": "20.x"
+  }
 }
